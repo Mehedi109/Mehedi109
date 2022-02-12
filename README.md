@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm <a href="https://mehedialam.netlify.app/">Mehedi Alam</a>
 #### Web Developer
 
-I am Mehedi Alam. I am a front-end developer. I am comfortable working with frontend technology and sliced backend technology. I have skills in JavaScript, React, React Bootstrap, React Router, Firebase, Node.js, MongoDB, Express. I have completed some projects with react as client-side and node as server-side technology.
+I am Mehedi Alam. I am a front-end web developer. I am comfortable working with frontend technology and sliced backend technology. I have skills in JavaScript, React, React Bootstrap, React Router, Firebase, Node.js, MongoDB, Express. I have completed some projects with react as client-side and node as server-side technology.
 
 Skills: REACT / JS / HTML / CSS / Bootstrap / Firebase / MongoDB / Node.js / Material UI /  Express.js / Material UI
 

@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/0s1bH2r/my-photo.png)
+<!--![Web Developer](https://i.ibb.co/0s1bH2r/my-photo.png)-->
 
 ### Hi there 👋, I'm Mehedi Alam
 #### Web Developer

@@ -1,6 +1,6 @@
 <!--![Web Developer](https://i.ibb.co/0s1bH2r/my-photo.png)-->
 
-### Hi there 👋, <a href="https://www.mehedialam.netlify.app">I'm Mehedi Alam</a>
+### Hi there 👋, <a href="https://mehedialam.netlify.app/">I'm Mehedi Alam</a>
 #### Web Developer
 
 I am Mehedi Alam Opu. I am a front-end developer. I am comfortable working with frontend technology and sliced backend technology. I have skills in Javascript, React, React Bootstrap, React Router, Firebase, Node.js, MongoDB, Express. I have completed some projects with react as client-side and node as server-side technology.
